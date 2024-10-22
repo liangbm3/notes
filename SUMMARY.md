@@ -1,6 +1,6 @@
 # Table of contents
 
-* [liangbm's notes](README.md)
+* [概述](README.md)
 * [🐶 MATLAB](matlab/README.md)
   * [🏋️ 1. MATLAB介绍](matlab/1.-matlab-jie-shao.md)
   * [🤼 2. MATLAB基础](matlab/2.-matlab-ji-chu.md)
