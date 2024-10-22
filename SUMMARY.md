@@ -11,3 +11,7 @@
   * [🏌️ 7. 稀疏矩阵、单元阵列和结构](matlab/7.-xi-shu-ju-zhen-dan-yuan-zhen-lie-he-jie-gou.md)
   * [🏇 8. 输入/输入函数](matlab/8.-shu-ru-shu-ru-han-shu.md)
   * [🧘 9. 图形句柄](matlab/9.-tu-xing-ju-bing.md)
+* [🐱 通信原理](tong-xin-yuan-li/README.md)
+  * [🍔 1. 绪论](tong-xin-yuan-li/1.-xu-lun.md)
+  * [🥯 2. 确知信号](tong-xin-yuan-li/2.-que-zhi-xin-hao.md)
+  * [🌮 3. 随机过程](tong-xin-yuan-li/3.-sui-ji-guo-cheng.md)
