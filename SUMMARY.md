@@ -15,3 +15,5 @@
   * [🍔 1. 绪论](tong-xin-yuan-li/1.-xu-lun.md)
   * [🥯 2. 确知信号](tong-xin-yuan-li/2.-que-zhi-xin-hao.md)
   * [🌮 3. 随机过程](tong-xin-yuan-li/3.-sui-ji-guo-cheng.md)
+  * [🧆 4. 信道](tong-xin-yuan-li/4.-xin-dao.md)
+  * [🫔 5. 模拟调制系统](tong-xin-yuan-li/5.-mo-ni-tiao-zhi-xi-tong.md)
