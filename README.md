@@ -22,7 +22,7 @@ layout:
 
 这里主要存储我的一些笔记
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>通信原理</td><td></td><td></td><td></td></tr><tr><td>MATLAB</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">MATLAB</td><td><a href="matlab/">matlab</a></td></tr><tr><td align="center">通信原理</td><td><a href="tong-xin-yuan-li/">tong-xin-yuan-li</a></td></tr><tr><td align="center"></td><td></td></tr><tr><td align="center"></td><td></td></tr></tbody></table>
 
 
 
