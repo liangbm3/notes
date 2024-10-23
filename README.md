@@ -22,7 +22,7 @@ layout:
 
 这里主要存储我的一些笔记
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-card-target data-type="content-ref"></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>MATLAB</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>通信原理</strong></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>通信原理</td><td></td><td></td><td></td></tr><tr><td>MATLAB</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 
 
