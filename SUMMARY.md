@@ -17,3 +17,6 @@
   * [🌮 3. 随机过程](tong-xin-yuan-li/3.-sui-ji-guo-cheng.md)
   * [🧆 4. 信道](tong-xin-yuan-li/4.-xin-dao.md)
   * [🫔 5. 模拟调制系统](tong-xin-yuan-li/5.-mo-ni-tiao-zhi-xi-tong.md)
+* [🐯 信息论与编码](xin-xi-lun-yu-bian-ma/README.md)
+  * [📓 1. 熵和互信息](xin-xi-lun-yu-bian-ma/1.-shang-he-hu-xin-xi.md)
+  * [📔 2. 信道容量](xin-xi-lun-yu-bian-ma/2.-xin-dao-rong-liang.md)
