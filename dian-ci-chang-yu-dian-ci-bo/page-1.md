@@ -58,7 +58,7 @@ $$
     矢量的加减符合交换律和结合律：
 
     $$
-    \begin{align} &交换律 \: \vec{A}+\vec{B}=\vec{B}+\vec{A}\\ &结合律 \: \vec{A}+(\vec{B}+\vec{C})=(\vec{A}+\vec{B})+\vec{C} \end{align}
+    \begin{align*} &交换律 \: \vec{A}+\vec{B}=\vec{B}+\vec{A}\\ &结合律 \: \vec{A}+(\vec{B}+\vec{C})=(\vec{A}+\vec{B})+\vec{C} \end{align*}
     $$
 2.  **标量乘矢量**
 
@@ -116,7 +116,7 @@ $$
 
     * **分配律**：$$(\vec{A}+\vec{B})\cdot\vec{C}=\vec{A}\cdot\vec{C}+\vec{B}\cdot\vec{C}$$
     * **分配律**：$$(\vec{A}+\vec{B})\times\vec{C}=\vec{A}\times\vec{C}+\vec{B}\times\vec{C}$$
-    * **标量三重积**：$$\vec{A}\cdot(\vec{B}\times\vec{CD})=\vec{B}\cdot(\vec{C}\times\vec{A})=\vec{C}\cdot(\vec{A}\times\vec{B})$$
+    * **标量三重积**：$$\vec{A}\cdot(\vec{B}\times\vec{C})=\vec{B}\cdot(\vec{C}\times\vec{A})=\vec{C}\cdot(\vec{A}\times\vec{B})$$
     * **矢量三重积**：$$\vec A\times(\vec B\times\vec C)=(\vec A\cdot\vec C)\vec B-(\vec A\cdot\vec B)\vec C$$
 
     **标量三重积的证明**：
@@ -136,7 +136,7 @@ $$
     由行列式的性质，我们可知，当顺序不变，改变$$\vec{A}、\vec{B}、\vec{C}$$的位置也不会影响标量三重积的结果，也可以重新证一次$$\vec{B}\cdot(\vec{C}\times\vec{A})$$，得：
 
     $$
-    \vec{A}\cdot(\vec{B}\times\vec{CD})=\vec{B}\cdot(\vec{C}\times\vec{A})=\vec{C}\cdot(\vec{A}\times\vec{B})
+    \vec{A}\cdot(\vec{B}\times\vec{C})=\vec{B}\cdot(\vec{C}\times\vec{A})=\vec{C}\cdot(\vec{A}\times\vec{B})
     $$
 
     几何意义为一个平行六面体的体积
@@ -194,9 +194,10 @@ $$
 任意矢量$$\vec A$$在直角坐标系中可表示为：
 
 $$
-\vec{A}=\vec{e_x}A_x+\vec{e_y}A_y+\vec{e_z}A_z\\ 其中A_x、A_y和A_z分别是矢量\vec{A}在\vec{e_x}、\vec{e_y}和\vec{e_z}方向上的投影
+\vec{A}=\vec{e_x}A_x+\vec{e_y}A_y+\vec{e_z}A_z
 $$
 
+其中$$A_x$$、$$A_y$$和$$A_z$$分别是矢量$$\vec{A}$$在$$\vec{e_x}$$、$$\vec{e_y}$$和$$\vec{e_z}$$方向上的投影\
 从坐标原点出发的矢量$$\vec r$$表示空间任一点的位置，称为位置矢量，在直角坐标系中，位置矢量
 
 $$
@@ -441,7 +442,7 @@ $$
 \mathrm{grad}\: u=\vec{e_n}\left.\frac{\partial u}{\partial l}\right|_{\mathrm{max}}
 $$
 
-$$grad:u$$的方向即为标量场$$u$$在点$$M$$处变化率最大的方向，其模为即为最大变换率。
+$$grad\:u$$的方向即为标量场$$u$$在点$$M$$处变化率最大的方向，其模为即为最大变换率。
 
 在直角坐标系中，梯度的计算公式为：
 
